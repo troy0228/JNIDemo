@@ -17,4 +17,5 @@ JNI，是Java Native Interface的简称，中文是“Java本地调用”。
      
      6.Java类中加载DLL，然后调用声明方法
      
+     
 其调用的例子是nativeDLL
