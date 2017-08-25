@@ -5,7 +5,7 @@ JNI，是Java Native Interface的简称，中文是“Java本地调用”。
 
 通过Java语言来调用Native语言的功能模块，避免重复制作
 
-     步骤：1.首先在Java类中声明一个native的方法；  
+     1.首先在Java类中声明一个native的方法；  
      
      2.使用Javah命令生成native方法的声明的C/C++头文件；
      
